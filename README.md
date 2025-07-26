@@ -11,7 +11,6 @@ This project analyzes a large-scale transactional dataset to uncover trends in r
 - **Total Cells:** 3,503,268  
 - **Tools Used:** Excel, Power BI  
 
-Each row represents a unique transaction or invoice detail, and every column captures a different aspect of the sale (e.g., product, customer, date, amount).
 
 ---
 
