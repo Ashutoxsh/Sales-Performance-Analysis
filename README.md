@@ -126,8 +126,8 @@ Each row represents a unique transaction or invoice detail, and every column cap
 ## 💡 Insights & Takeaways
 
 - Revenue is highly concentrated in a few products and one country (UK)  
-- Q4 and November are peak sales periods — strong seasonality  
-- Long tail of products contribute minimal revenue — possible optimization area  
+- Q4 and November are peak sales periods - strong seasonality  
+- Long tail of products contribute minimal revenue - possible optimization area  
 - A small group of loyal customers drive a large share of revenue  
 
 ## 📅 Dashboard 
